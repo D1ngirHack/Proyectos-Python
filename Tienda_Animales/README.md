@@ -1,8 +1,9 @@
-Sistema de Gestión para una Tienda de Animales 🐾
-Descripción del Proyecto
+# Sistema de Gestión para una Tienda de Animales 🐾
+
+## Descripción del Proyecto
 Este proyecto en Python implementa un sistema básico de gestión para una tienda de animales, diseñado para simular las operaciones fundamentales de un negocio de este tipo. Desarrollado con los principios de la Programación Orientada a Objetos (POO), el sistema modela de manera efectiva las entidades Animal y TiendaAnimales, permitiendo un control intuitivo sobre el inventario y el estado de cada animal.
 
-Características Clave:
+## Características Clave:
 
 Registro y Visualización de Animales: Gestiona animales con atributos detallados como nombre, especie, nivel de salud y estado de alimentación.
 
@@ -12,7 +13,7 @@ Gestión de Inventario: Facilita la adición de nuevos animales al inventario de
 
 Seguimiento del Negocio: Ofrece un seguimiento básico de la cantidad de animales en tienda y el total de animales vendidos, proporcionando métricas operativas.
 
-Aspectos Destacados para Reclutadores
+## Aspectos Destacados para Reclutadores
 Este proyecto es una demostración práctica de mis habilidades en:
 
 Diseño y Modelado de Clases: Capacidad para traducir requisitos del mundo real en un diseño de clases coherente y extensible, como se evidencia en las clases Animal y TiendaAnimales.
@@ -25,7 +26,7 @@ Lógica de Negocio y Gestión de Estado: Implementación de lógica para gestion
 
 Experiencia Práctica: Un ejemplo concreto de cómo la POO puede ser utilizada para resolver problemas y gestionar información en un contexto de negocios realista, aplicando conceptos teóricos a un escenario práctico.
 
-Estructura del Proyecto
+## Estructura del Proyecto
 El proyecto se compone de los siguientes archivos Python:
 
 .
@@ -38,17 +39,3 @@ tienda_animales.py: Define la clase TiendaAnimales, que gestiona la colección d
 
 main.py: El script principal que coordina la creación de la tienda, la adición de animales, y la ejecución de las operaciones de gestión para demostrar la funcionalidad del sistema.
 
-Cómo Ejecutar el Proyecto
-Para ejecutar este sistema en tu entorno local, sigue los siguientes pasos:
-
-Clona el repositorio (si está alojado en Git) o descarga los archivos.
-
-Asegúrate de tener Python 3 instalado en tu sistema.
-
-Navega al directorio del proyecto en tu terminal.
-
-Ejecuta el script principal:
-
-Bash
-
-python main.py
