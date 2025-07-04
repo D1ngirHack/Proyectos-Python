@@ -16,16 +16,4 @@ Este sistema es un excelente ejemplo para entender:
 - La interacción entre diferentes objetos y clases en un programa.
 - La organización del código en módulos Python.
 
-## Estructura del Proyecto
-
-El proyecto está organizado en una estructura modular para mejorar la claridad y la mantenibilidad del código:
-
-```
-tienda_animales/
-│
-├── tienda.py
-├── animal.py
-├── main.py
-└── README.md
-```
 
