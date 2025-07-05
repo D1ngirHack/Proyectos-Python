@@ -22,4 +22,11 @@ Este proyecto es ideal para comprender:
 -   **`biblioteca_infaltil.py`**: Contiene la clase `BibliotecaInfantil`, que hereda de `Biblioteca`. Extiende la funcionalidad para clasificar y gestionar específicamente libros infantiles.
 -   **`main.py`**: El script principal que demuestra el uso de las clases `Libro` y `BibliotecaInfantil` a través de varios ejemplos de operaciones.
 
-
+🛠️ Estructura del proyecto
+```
+├── src
+    ├── biblioteca.py 
+    ├── biblioteca_infantil.py 
+    ├── libro.py
+    └── main.py # Script de prueba y ejemplo de uso del sistema
+```
