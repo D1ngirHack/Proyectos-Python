@@ -28,6 +28,13 @@ Experiencia Práctica: Un ejemplo concreto de cómo la POO puede ser utilizada p
 
 ## Estructura del Proyecto
 
+```
+├──src
+    ├── animal.py
+    ├── tienda_animales.py
+    └── main.py
+```
+
 animal.py: Define la clase Animal, que encapsula las propiedades (nombre, especie, salud, estado de alimentación, estado de juego) y el comportamiento (alimentar, jugar) de un animal individual.
 
 tienda_animales.py: Define la clase TiendaAnimales, que gestiona la colección de objetos Animal y ofrece funcionalidades a nivel de tienda, como agregar, vender, mostrar, alimentar a todos o hacer jugar a todos los animales.
