@@ -13,19 +13,53 @@ Gestión de Inventario: Facilita la adición de nuevos animales al inventario de
 
 Seguimiento del Negocio: Ofrece un seguimiento básico de la cantidad de animales en tienda y el total de animales vendidos, proporcionando métricas operativas.
 
-## Aspectos Destacados para Reclutadores
-Este proyecto es una demostración práctica de mis habilidades en:
+# 🐾 Sistema de Gestión para una Tienda de Animales en Python
 
-Diseño y Modelado de Clases: Capacidad para traducir requisitos del mundo real en un diseño de clases coherente y extensible, como se evidencia en las clases Animal y TiendaAnimales.
+Este proyecto simula la operativa interna de una tienda de animales, combinando programación orientada a objetos, modularidad y lógica de negocio. Está desarrollado completamente en Python, con una estructura clara y organizada ideal para mostrar buenas prácticas de diseño, encapsulamiento y simulación de procesos reales.
 
-Programación Orientada a Objetos (POO): Sólida comprensión y aplicación de los pilares de la POO, incluyendo la encapsulación de datos y comportamientos dentro de objetos, y la colaboración efectiva entre diferentes objetos y clases.
+---
 
-Estructura y Modularización del Código: Organización lógica del código en módulos (animal.py, tienda_animales.py, main.py) para mejorar la legibilidad, mantenibilidad y escalabilidad del proyecto.
+## ⚙️ Funcionalidades principales
 
-Lógica de Negocio y Gestión de Estado: Implementación de lógica para gestionar el estado de los animales (alimentado, jugando, salud) y las operaciones de la tienda (agregar/vender animales), reflejando una capacidad para modelar procesos de negocio.
+- ➕ Registrar nuevos animales en la tienda.
+- 📋 Visualizar todos los animales disponibles.
+- 🍗 Alimentar animales para mejorar su salud.
+- 🧸 Jugar con los animales, afectando su estado físico.
+- 💰 Vender animales y mantener un registro del inventario.
+- 📊 Ver estadísticas como número total de animales vendidos.
 
-Experiencia Práctica: Un ejemplo concreto de cómo la POO puede ser utilizada para resolver problemas y gestionar información en un contexto de negocios realista, aplicando conceptos teóricos a un escenario práctico.
+---
 
+## 👨‍💻 Objetivo del proyecto
+
+Este proyecto fue desarrollado con fines didácticos y prácticos para reforzar conceptos clave como:
+
+- 📌 Modelado de clases y objetos a partir de problemas reales.
+- 🔒 Encapsulamiento de atributos y comportamientos.
+- 🧱 Diseño modular, separación por responsabilidades y código reutilizable.
+- 🔄 Simulación de lógica de negocio (interacción y gestión de estados).
+- 🚀 Desarrollo de software mantenible y escalable.
+
+---
+
+## 🧠 Aspectos técnicos destacados
+
+- ✅ Uso de POO con clases bien definidas.
+- 📂 Organización del código en módulos (`animal.py`, `tienda_animales.py`, `main.py`).
+- 🔄 Control de estado interno en los objetos (`salud`, `alimentado`, `jugando`).
+- ✨ Lógica simple pero adaptable a escenarios más complejos (como BD o interfaz).
+
+---
+
+## 🏁 Instrucciones de uso
+
+### 1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/D1ngirHack/Proyectos-Python.git
+cd Proyectos-Python/Sistema-Tienda-Animales/src
+```
+---
 ## Estructura del Proyecto
 
 ```
