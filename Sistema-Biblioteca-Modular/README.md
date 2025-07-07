@@ -34,4 +34,30 @@ El sistema está diseñado para ser fácilmente extensible y cuenta con una subc
 │ └── main.py # Script principal con casos de uso
 ```
 
+🏁 Instrucciones de uso
+markdown
+Copiar
+Editar
+## 🏁 Instrucciones de uso
+
+### 1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/D1ngirHack/Proyectos-Python.git
+cd Proyectos-Python/Sistema-Biblioteca-Modular/src
+```
+
+## 👨‍💻 Objetivo del proyecto
+
+Este proyecto fue desarrollado como ejercicio práctico para afianzar habilidades fundamentales en desarrollo con Python, especialmente orientado a sistemas reales y escalables. Con él se busca dominar conceptos como:
+
+- 🧱 Diseño modular y limpio del software
+- 📦 Organización lógica del código en carpetas y archivos
+- 🧬 Uso de clases, herencia y encapsulamiento en POO
+- ⚙️ Encapsulación mediante propiedades y métodos
+- 📄 Separación de responsabilidades y reutilización del código
+- 🧪 Práctica de ejemplos con flujos realistas en consola
+
+Además, el proyecto sirve como base para futuros desarrollos que incluyan almacenamiento en bases de datos, interfaces gráficas o entornos web.
+
 
