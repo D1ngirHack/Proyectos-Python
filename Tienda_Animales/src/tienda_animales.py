@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+from animal import Animal
+>>>>>>> 9a34773400580a1968b6e4c9d43851f351d58d74
 
 class TiendaAnimales():
     def __init__(self,nombre):

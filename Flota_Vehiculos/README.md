@@ -25,11 +25,19 @@ Todo el comportamiento se gestiona a través de tres clases principales distribu
 - **Aplicación realista:** Simula un caso de uso habitual en empresas de transporte, logística o alquiler de coches.
 
 ## 🛠️ Estructura del repositorio
+<<<<<<< HEAD
 """
 ├── flota.py # Clase Flota: gestiona vehículos, alquiler y devolución
 ├── vehiculo.py # Clase Vehiculo: define atributos y acciones de cada coche
 └── main.py # Script de prueba y ejemplo de uso del sistema
 """
+=======
+```
+├── flota.py # Clase Flota: gestiona vehículos, alquiler y devolución
+├── vehiculo.py # Clase Vehiculo: define atributos y acciones de cada coche
+└── main.py # Script de prueba y ejemplo de uso del sistema
+```
+>>>>>>> 9a34773400580a1968b6e4c9d43851f351d58d74
 
 
 ## ✅ Requisitos
