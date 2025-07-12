@@ -79,25 +79,17 @@ $ python cliente.py
 [*] Esperando comandos...
 ```
 
-📌 Tecnologías usadas
+## 📌 Tecnologías usadas
+
 🐍 Python 3.x
 
 📡 Socket TCP
 
 ⚙️ Subprocess para ejecución de comandos
 
-🚀 Mejoras posibles
-Cifrado con ssl o cryptography.
+---
 
-Persistencia y reconexión automática.
-
-Multicliente con threading.
-
-Comunicación UDP o HTTP/HTTPS.
-
-Detección y evasión de antivirus.
-
-⚠️ Advertencia ética
+# ⚠️ Advertencia ética
 🛡 Este proyecto tiene fines exclusivamente educativos y de formación en ciberseguridad ofensiva.
 
 Toda prueba debe realizarse en entornos controlados y con autorización explícita.
